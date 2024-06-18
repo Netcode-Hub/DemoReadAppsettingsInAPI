@@ -1,5 +1,7 @@
 # Mastering AppSettings: Reading Configuration in Blazor & Web API with .NET 8 IOptions
 
+![read appsettings](https://github.com/Netcode-Hub/DemoReadAppSettingsFile4BlazorOrAPI/assets/110794348/8f8d2829-7ddb-479a-ad23-1453be5b533c)
+
 # Here's a follow-up section to encourage engagement and support for Netcode-Hub:
 🌟 Get in touch with Netcode-Hub! 📫
 1. GitHub: [Explore Repositories](https://github.com/Netcode-Hub/Netcode-Hub) 🌐
