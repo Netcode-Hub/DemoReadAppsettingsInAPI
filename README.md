@@ -1,5 +1,5 @@
-# Mastering AppSettings: Reading Configuration in Blazor & Web API with .NET 8 IOptions
-
+# Mastering AppSettings: Reading Configuration in Blazor & Web API with .NET 8 IOptions https://youtu.be/fV9CsTsRmJw
+In .NET application, the appsettings.json file is used to store configuration settings in a simple, human-readable format. This file allows you to keep all your configuration information in one place, separate from your code, making it easy to manage and modify, and in this video, we will look at how to read using different style introduced in .NET 8.
 ![read appsettings](https://github.com/Netcode-Hub/DemoReadAppSettingsFile4BlazorOrAPI/assets/110794348/8f8d2829-7ddb-479a-ad23-1453be5b533c)
 
 # Here's a follow-up section to encourage engagement and support for Netcode-Hub:
